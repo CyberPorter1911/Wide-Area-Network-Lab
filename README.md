@@ -10,9 +10,9 @@ The Objective in this lab was to use Nmap OS Scan to discover vulnerabilities on
 ### Step 1: Decoy IP address 
 **Description:** At the TargetNMAP command prompt execute tcpdump - r phillip_capture_s2, then
 At the vWorkstation command prompt execute the Nmap command to detect the operating system of the TargetVulnerable01 machine with increased output verbosity
+
 ![Decoy IP address](https://github.com/user-attachments/assets/9260d479-5c0b-4fcd-8daf-812f0dd06b40)
 
-![CyberPorter1911](images/Decoy IP address.png)
 *Caption: Briefly describe what the image shows or the result of this step.*
 
 ---
